@@ -156,3 +156,55 @@ In extreme cold, these parameters become indicators of whether communication lin
 
 Operation Meghdoot shows that communication is as important as strategy in extreme environments like Siachen. High‑frequency parameters help assess how antennas and RF systems behave in severe cold, while S‑parameters clearly describe how signals reflect and travel through communication equipment. Together, they ensure reliable, stable communication links that support the safety and effectiveness of the forces operating on the glacier.
 
+📚 REFERENCES FOR OPERATION MEGHDOOT
+
+1. Ministry of Defence, Government of India
+
+Ministry of Defence. “Indian Army Operations in High Altitude Regions.”
+Retrieved from: https://mod.gov.in
+
+2. Indian Army Official Website
+
+Indian Army. “Siachen Glacier: Deployment, Challenges, and Strategic Significance.”
+Retrieved from: https://indianarmy.nic.in
+
+3. Press Information Bureau (PIB)
+
+Press Information Bureau. “Background on Siachen Operations and High-Altitude Logistics.”
+Government of India.
+https://pib.gov.in
+
+4. The Hindu (News Article)
+
+The Hindu. “Siachen Glacier: Inside India’s Highest Battlefield.”
+https://www.thehindu.com
+
+5. The Indian Express
+
+The Indian Express. “Explained: The Strategic Importance of Siachen and Operation Meghdoot.”
+https://indianexpress.com
+
+6. IDSA (Institute for Defence Studies and Analyses)
+
+IDSA. “Operation Meghdoot: A Strategic Assessment.”
+https://idsa.in
+
+7. ORF – Observer Research Foundation
+
+Observer Research Foundation. “India’s Military Deployment in Siachen: Challenges and Strategy.”
+https://www.orfonline.org
+
+8. Ministry of Home Affairs – Annual Reports
+
+MHA Annual Report. “High Altitude Operations and Border Management.”
+https://www.mha.gov.in
+
+9. BBC News
+
+BBC. “Siachen: The World’s Highest Battlefield.”
+https://www.bbc.com/news
+
+10. NDTV News
+
+NDTV. “Understanding Operation Meghdoot and India’s Presence in Siachen.”
+https://www.ndtv.com
